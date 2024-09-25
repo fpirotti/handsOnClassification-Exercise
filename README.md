@@ -1,5 +1,5 @@
 # handsOnClassification-Exercise
 
-Summer School "sensing mountains
+Summer School "sensing mountains" 2024
 
-" 2024 - Obergurgl - Sensing Mountains
+![](images/clipboard-1441316401.png)
