@@ -1,5 +1,5 @@
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load(data.table, h2o, tidyverse, devtools, emojifont)
+pacman::p_load(data.table, h2o,  devtools, emojifont)
 
 if(!require(CloudGeometry)){ 
   devtools::install_github("fpirotti/CloudGeometry")
